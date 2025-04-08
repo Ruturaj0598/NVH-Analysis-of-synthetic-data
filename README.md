@@ -17,11 +17,11 @@ This repository contains a comprehensive project on **Noise, Vibration, and Hars
 
 ## 📂 Repository Contents  
 
-- **`nvh_synthetic_data_final.csv`**: Synthetic dataset used for analysis.  
-- **`data_generation.py`**: Python script for generating the synthetic NVH dataset.  
-- **`NVH-Analysis.pbix`**: Power BI dashboard file containing the NVH analysis.  
+- **[`nvh_synthetic_data_final.csv`](nvh_synthetic_data_final.csv)**: Synthetic dataset used for analysis.  
+- **[`data_generation.ipynb`](data_generation.ipynb)**: Python script for generating the synthetic NVH dataset.  
+- **[`NVH Analysis.pbix`](NVH Analysis.pbix)**: Power BI dashboard file containing the NVH analysis.  
 - **`README.md`**: This documentation file.  
-- **`NVH-Analysis-Task-Power-BI-Internship.pdf`**: Task description document outlining requirements.  
+- **[`NVH Analysis report.pdf`](`NVH Analysis report.pdf`)**: Task description document outlining requirements.  
 
 ---
 
@@ -99,8 +99,8 @@ python data_generation.py
 
 
 ### Steps to Use the Dashboard:
-1. Open `nvh_synthetic_data_final.csv` in Power BI Desktop.
-2. Load the `NVH-Analysis.pbix` file to explore the interactive dashboard.
+1. Open [`nvh_synthetic_data_final.csv`](nvh_synthetic_data_final.csv) in Power BI Desktop.
+2. Load the [`NVH Analysis.pbix`](NVH Analysis.pbix) file to explore the interactive dashboard.
 3. Customize the dashboard or dataset as needed.
 
 ---
